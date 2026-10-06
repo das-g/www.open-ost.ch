@@ -49,22 +49,21 @@ Aktuell müssen Drucker auf dem Mac und Linux einzeln von Hand installiert und k
 
 -->
 
-1. Möglichkeit: PDF auf USB-Stick laden, am Drucker auswählen und mit dem Badge bezahlen.
+1. Möglichkeit: PDF auf USB-Stick laden, am Drucker auswählen und mit dem Badge bezahlen. [Zum wiki](https://wiki.ost.ch/pages/releaseview.action?pageId=30966494)
+2. Möglichkeit: PDF zur mobileprint.{bu,sg,rj}@ost.ch E-Mail senden, am Drucker auswählen und mit dem Badge bezahlen. [Zum wiki](https://wiki.ost.ch/pages/releaseview.action?pageId=61572469)
 
-<!-- Drucker einrichten Windows: https://wiki.ost.ch/pages/releaseview.action?pageId=61573442
-Drucker einrichten macOS: https://wiki.ost.ch/pages/releaseview.action?pageId=424149241 -->
-
+- [Drucker einrichten Windows](https://wiki.ost.ch/pages/releaseview.action?pageId=61573442) 
+- [Drucker einrichten macOS](https://wiki.ost.ch/pages/releaseview.action?pageId=424149241)
 
 ## :school: VPN
 
 Um von extern auf die Dateiablagen der OST zuzugreifen, brauchst du eine VPN-Verbindung. Wie du diese einrichtest, findest du unter [Dokumentationen → VPN](/hsr/vpn).
 
-Übrigens: Eine VPN-Verbindung ist kostenlos über Hotspots von [Swisscom](http://hotspotlocator.swisscom.ch/en/locator), [Monzoon](http://hotspot.monzoon.net/?sec=hot&cot=hsl&lang=en) und [TheNet](https://wlan.thenet.ch/en/hotspot_locator) möglich.
+<!-- Übrigens: Eine VPN-Verbindung ist kostenlos über Hotspots von [Swisscom](http://hotspotlocator.swisscom.ch/en/locator), [Monzoon](http://hotspot.monzoon.net/?sec=hot&cot=hsl&lang=en) und [TheNet](https://wlan.thenet.ch/en/hotspot_locator) möglich. -->
 
 ## Teams auf Linux nutzen
 
-[Linux | Wie nutze ich Teams unter Linux?](https://wiki.ost.ch/pages/releaseview.action?pageId=15499327&src=contextnavpagetreemode
-){:target="_blank"}
+[Linux | Wie nutze ich Teams unter Linux?](https://wiki.ost.ch/pages/releaseview.action?pageId=15499327&src=contextnavpagetreemode){:target="_blank"}
 
 
 <!--
